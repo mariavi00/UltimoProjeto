@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\UltimoProjeto.csproj": {}
+    "c:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\UltimoProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\UltimoProjeto.csproj": {
+    "c:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\UltimoProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\UltimoProjeto.csproj",
+        "projectUniqueName": "c:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\UltimoProjeto.csproj",
         "projectName": "UltimoProjeto",
-        "projectPath": "C:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\UltimoProjeto.csproj",
+        "projectPath": "c:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\UltimoProjeto.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\obj\\",
+        "outputPath": "c:\\Users\\Aluno\\UltimoProjeto\\UltimoProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

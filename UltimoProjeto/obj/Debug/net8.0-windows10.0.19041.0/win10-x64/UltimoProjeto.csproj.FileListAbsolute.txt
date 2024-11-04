@@ -65,8 +65,6 @@ C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-125.png
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-100.png
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\appicon.ico
-C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fundo.scale-100.png
-C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\predios.scale-100.png
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\chao.scale-100.jpg
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CoreMessagingXP.dll
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\dcompi.dll
@@ -426,8 +424,6 @@ C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
-C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundo.scale-100.png
-C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\predios.scale-100.png
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chao.scale-100.jpg
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
@@ -457,3 +453,9 @@ C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+c:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\estrelas.scale-100.png
+c:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\estrelas.scale-100.png
+c:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\arvores2.scale-100.png
+c:\Users\Aluno\UltimoProjeto\UltimoProjeto\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\arvores1.scale-100.png
+c:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arvores2.scale-100.png
+c:\Users\Aluno\UltimoProjeto\UltimoProjeto\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arvores1.scale-100.png

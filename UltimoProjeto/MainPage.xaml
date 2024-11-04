@@ -2,26 +2,62 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="UltimoProjeto.MainPage"
-             Shell.NavBarIsVisible="False">
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="Black">
 
     <Grid>
-        <Image
-            Source="fundo.png"
+        <HorizontalStackLayout x:Name="HSLayer1">
+            <Image Source="estrelas.png"
             Aspect="Fill"
-            HorizontalOptions="Fill"
-            VerticalOptions="Fill" />
-        
-        <Image
-            Source="predios.png"
+            VerticalOptions="Fill"/>
+            <Image Source="estrelas.png"
             Aspect="Fill"
-            HorizontalOptions="Fill" 
-            VerticalOptions="Fill" />
+            VerticalOptions="Fill"/>
+            <Image Source="estrelas.png"
+            Aspect="Fill"
+            VerticalOptions="Fill"/>
+        </HorizontalStackLayout>
 
-         <Image
-            Source="chao.jpg"
-            HorizontalOptions="Fill" 
-            VerticalOptions="End" />
+        <HorizontalStackLayout x:Name="HSLayer2">
+            <Image Source="arvores2.png"
+            Aspect="Fill"
+            VerticalOptions="Fill"/>
+            <Image Source="arvores2.png"
+            Aspect="Fill"
+            VerticalOptions="Fill"/>
+            <Image Source="arvores2.png"
+            Aspect="Fill"
+            VerticalOptions="Fill"/>
+        </HorizontalStackLayout>
 
+        <HorizontalStackLayout x:Name="HSLayer3">
+            <Image Source="arvores1.png"
+            Aspect="Fill"
+            VerticalOptions="Fill"/>
+            <Image Source="arvores1.png"
+            Aspect="Fill"
+            VerticalOptions="Fill"/>
+            <Image Source="arvores1.png"
+            Aspect="Fill"
+            VerticalOptions="Fill"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout x:Name="HSLayerChao"
+                               HeightRequest="50"
+                               VerticalOptions="End">
+            <Image Source="chao.jpg"
+                Aspect="AspectFill"
+                HorizontalOptions="Fill"
+                HeightRequest="150"/>
+            <Image Source="chao.jpg"
+                Aspect="AspectFill"
+                HorizontalOptions="Fill"
+                HeightRequest="150"/>
+            <Image Source="chao.jpg"
+                Aspect="AspectFill"
+                HorizontalOptions="Fill"
+                HeightRequest="150"/>
+        </HorizontalStackLayout>
     </Grid>
 
 </ContentPage>
